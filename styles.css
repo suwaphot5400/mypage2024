@@ -16,7 +16,7 @@ caption {
     font-weight: bold;
 }
 
-tfoot {
+thead, tfoot {
     background-color: rgb(228 240 245);
 }
 
